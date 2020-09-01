@@ -1,4 +1,4 @@
-package com.example.Spring_Security_JPA_01;
+package com.example.Spring_Security_JPA_01.models;
 
 import com.example.Spring_Security_JPA_01.models.User;
 import org.springframework.security.core.GrantedAuthority;
